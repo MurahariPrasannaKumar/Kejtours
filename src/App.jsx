@@ -431,7 +431,7 @@ const App = () => {
             <img
               src="./logo.jpg"
               alt="Poveda Logo"
-              className="w-35 h-35 object-cover rounded-full border border-sky-200 shadow-sm"
+              className="w-35 h-35 object-cover rounded-full border shadow-sm"
             />
           </div>
 
